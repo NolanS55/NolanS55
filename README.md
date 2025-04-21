@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a passionate **full-stack software developer** with a 
 
 ### 🚀 Projects:
 
-#### **[Sketch to 3D](https://github.com/NolanS55/sketch-to-3d)**
+#### **[Sketch to 3D](https://github.com/NolanS55/DrawModel)**
 An AI-powered web application that transforms hand-drawn sketches into interactive 3D models. Built with **Azure OpenAI**, **FastAPI**, and **Three.js**.
 
 #### **WalkMe App**
